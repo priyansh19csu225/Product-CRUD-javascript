@@ -1,0 +1,16 @@
+i {
+    cursor: pointer;
+}
+
+.hide {
+    display: none;
+}
+
+#price {
+    width: 100%;
+}
+
+#color {
+    margin-top: 0px;
+    margin-left: 50px;
+}
